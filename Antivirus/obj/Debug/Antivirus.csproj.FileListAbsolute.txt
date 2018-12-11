@@ -1,0 +1,6 @@
+C:\Users\ilya\Desktop\Antivirus\Antivirus\bin\Debug\Antivirus.exe.config
+C:\Users\ilya\Desktop\Antivirus\Antivirus\bin\Debug\Antivirus.exe
+C:\Users\ilya\Desktop\Antivirus\Antivirus\bin\Debug\Antivirus.pdb
+C:\Users\ilya\Desktop\Antivirus\Antivirus\obj\Debug\Antivirus.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Desktop\Antivirus\Antivirus\obj\Debug\Antivirus.exe
+C:\Users\ilya\Desktop\Antivirus\Antivirus\obj\Debug\Antivirus.pdb
